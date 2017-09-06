@@ -1,3 +1,7 @@
+# RNN - Stock Prediction Model using Attention Multilayer Recurrent Neural Networks with LSTM Cells
+
+Author: [Soumyendu Sarkar](https://www.linkedin.com/in/soumyendusarkar/)
+
 ## Data Preparation
 
 * Data Source research and identification (free part of QuantQuote database )
