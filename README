@@ -1,4 +1,5 @@
 # Data Preparation
+
 * Data Source research and identification (free part of QuantQuote database )
 * Importing decade long stock data of the S&P 500 companies
 * Cleaning and Normalizing data with zero mean, unit variance and logarithmic scaling for normal distribution
